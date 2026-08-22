@@ -1,4 +1,3 @@
-**créditos a noob hacker:**
 <p align="center">
 <a href="https://bit.ly/3gnUcN3"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
@@ -8,6 +7,7 @@
 <a href="https://bit.ly/3gnUcN3"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
+<a href="https://bit.ly/3gnUcN3"><img title="Hacklock" src="https://user-images.githubusercontent.com/49580304/96666403-e4418800-130b-11eb-90bc-938e0825e610.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
@@ -15,6 +15,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
 <a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/hacklock?color=red&style=flat-square"></a>
 <a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/hacklock?color=red&style=flat-square"></a>
 <a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/hacklock?label=Watchers&color=blue&style=flat-square"></a>
